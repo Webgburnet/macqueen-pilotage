@@ -57,10 +57,7 @@ radio.onReceivedString(function (receivedString) {
         G()
     }
     if (receivedString == "D") {
-        G()
-    }
-    if (receivedString == "G") {
-        G()
+        D()
     }
     if (receivedString == "AvG") {
         AvG()
